@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppOferta.Views.Registro">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="entryNombre" Placeholder="Nombre" />
+            <Entry x:Name="entryApellidos" Placeholder="Apellidos" />
+            <Entry x:Name="entryCorreo" Placeholder="Correo" />
+            <Entry x:Name="entryCiudad" Placeholder="Ciudad" />
+            <Entry x:Name="entryTelefono" Placeholder="Telefono" />
+            <Picker x:Name="pickerGenero" Title="Genero"
+                 
+                        >
+                <Picker.Items>
+                    <x:String>femenino</x:String>
+                    <x:String>masculino</x:String>
+                    <x:String>LGBTI</x:String>
+                </Picker.Items>
+            </Picker>
+            
+            <Picker x:Name="pickerRol" Title="Perfil"
+                 
+                        >
+                <Picker.Items>
+                    <x:String>administrador</x:String>
+                    <x:String>usuario</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Entry x:Name="entryContrasena" IsPassword ="True" Placeholder="Contraseña" />
+            <Button Text="Registrar" Clicked="registrar" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
