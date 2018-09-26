@@ -1,5 +1,7 @@
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\bin\iPhoneSimulator\Debug\AppOferta.iOS.exe
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\bin\iPhoneSimulator\Debug\AppOferta.iOS.pdb
+C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
