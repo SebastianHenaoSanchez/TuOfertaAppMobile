@@ -4,7 +4,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppOferta.Views.Usuario">
     <ContentPage.Content>
-        <StackLayout>
+        <StackLayout >
             <!-- <Maps:Map WidthRequest="320" HeightRequest="200" MapType="Street"/>
            <Label x:Name="nombre"  Text="Welcome to Usuario!"
                 VerticalOptions="CenterAndExpand" 

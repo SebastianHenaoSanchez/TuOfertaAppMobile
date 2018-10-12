@@ -7,6 +7,7 @@ C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\Newtonsoft.Json.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\System.Core.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\System.dll
+C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\System.Json.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\System.Numerics.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\System.Numerics.Vectors.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.dll
@@ -31,6 +32,7 @@ C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.Palette.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Auth.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Essentials.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.dll
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Maps.Android.dll

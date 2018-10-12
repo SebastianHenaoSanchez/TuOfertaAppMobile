@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "074c2c993c9dc3d3dba0a5f03e600b52131388fb"
+    "signature": "a23c935df620268f6c0ad4b646788cbcadc494e2"
   },
   "compilationOptions": {},
   "targets": {
@@ -11,6 +11,7 @@
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "11.0.2",
+          "Xamarin.Auth": "1.6.0.2",
           "Xamarin.Essentials": "0.10.0-preview",
           "Xamarin.Forms": "3.2.0.839982",
           "Xamarin.Forms.Maps": "3.2.0.839982"
@@ -38,6 +39,14 @@
           "lib/netstandard2.0/System.Numerics.Vectors.dll": {
             "assemblyVersion": "4.1.4.0",
             "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Xamarin.Auth/1.6.0.2": {
+        "runtime": {
+          "lib/netstandard1.6/Xamarin.Auth.dll": {
+            "assemblyVersion": "1.6.0.1",
+            "fileVersion": "1.6.0.1"
           }
         }
       },
@@ -118,6 +127,13 @@
       "sha512": "sha512-MNcaYxUJvUcoXOa+jgKl/GDw/Mh+wMrxDjW4dre7qrp35LUGTjUBNtZsNjxsWX592ocdyqt1X5hMJB+5OStoYw==",
       "path": "system.numerics.vectors/4.5.0",
       "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "Xamarin.Auth/1.6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tSRTHDKTLK+YC7JGX8M8jca5RE9PcHZpamLXkPP2TGmoQULIjtwy/gxlaUFb9cAGFbSvTMCm65IAi+8GvvcQ+g==",
+      "path": "xamarin.auth/1.6.0.2",
+      "hashPath": "xamarin.auth.1.6.0.2.nupkg.sha512"
     },
     "Xamarin.Essentials/0.10.0-preview": {
       "type": "package",

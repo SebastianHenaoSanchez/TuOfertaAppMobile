@@ -17,6 +17,8 @@ namespace AppOferta.Views
         public Usuario()
         {
             InitializeComponent();
+            Persona persona = (Persona)Application.Current.Properties["persona"];
+
             var map = new Map(
             MapSpan.FromCenterAndRadius(
             new Position(6.2215477, -75.5722723), Distance.FromMiles(3)))
@@ -28,7 +30,7 @@ namespace AppOferta.Views
             };
             var titulo = new Label
             {
-                Text = "Bienvenido",
+                Text = "Bienvenido " +persona.nombre,
                 HorizontalOptions = LayoutOptions.CenterAndExpand,
                 FontSize = 18,
                 VerticalOptions = LayoutOptions.Start
@@ -39,6 +41,9 @@ namespace AppOferta.Views
                 Text = "logout"
               
             };
+
+          
+
             boton.Clicked += salir;
             var stack = new StackLayout { Spacing = 0 };
             stack.Children.Add(titulo);
@@ -47,7 +52,7 @@ namespace AppOferta.Views
             Content = stack;
 
        
-            Persona persona = (Persona)Application.Current.Properties["persona"];
+            
             //nombre.Text = nombre.Text + "HOLI - " + persona.nombre;
         }
 

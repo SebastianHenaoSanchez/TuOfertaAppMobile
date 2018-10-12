@@ -20,6 +20,8 @@ namespace AppOferta.Droid
             base.OnCreate(savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
 
+            //para login de google
+            global::Xamarin.Auth.Presenters.XamarinAndroid.AuthenticationConfiguration.Init(this, savedInstanceState);
             // Para el mapa
             Xamarin.FormsMaps.Init(this, savedInstanceState);
             LoadApplication(new App());

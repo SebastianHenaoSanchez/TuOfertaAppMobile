@@ -7,7 +7,8 @@ namespace AppOferta.Models
     public enum MenuItemType
     {
         Browse,
-        About
+        About,
+        Usuario
     }
     public class HomeMenuItem
     {

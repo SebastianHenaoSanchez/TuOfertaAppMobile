@@ -57,3 +57,7 @@ C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\obj\iPhoneSim
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\obj\iPhoneSimulator\Debug\AppOferta.iOS.csproj.CopyComplete
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\obj\iPhoneSimulator\Debug\AppOferta.iOS.exe
 C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\obj\iPhoneSimulator\Debug\AppOferta.iOS.pdb
+C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\bin\iPhoneSimulator\Debug\Xamarin.Auth.dll
+C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
+C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll
+C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.iOS\bin\iPhoneSimulator\Debug\AppOferta.dll.mdb

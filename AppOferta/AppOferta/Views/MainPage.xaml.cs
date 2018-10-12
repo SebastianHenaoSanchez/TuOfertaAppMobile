@@ -36,6 +36,9 @@ namespace AppOferta.Views
             {
                 switch (id)
                 {
+                    case(int)MenuItemType.Usuario:
+                        MenuPages.Add(id, new NavigationPage(new Usuario()));
+                break;
                     case (int)MenuItemType.Browse:
                         MenuPages.Add(id, new NavigationPage(new ItemsPage()));
                         break;

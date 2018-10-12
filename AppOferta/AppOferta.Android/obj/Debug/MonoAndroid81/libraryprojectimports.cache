@@ -16,10 +16,10 @@
     <Jar>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\21\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\22\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\23\jl\bin\classes.jar</Jar>
-    <Jar>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\31\jl\classes.jar</Jar>
     <Jar>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\32\jl\classes.jar</Jar>
     <Jar>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\33\jl\classes.jar</Jar>
     <Jar>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\34\jl\classes.jar</Jar>
+    <Jar>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\35\jl\classes.jar</Jar>
     <Jar>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\4\jl\arch-core-common.jar</Jar>
     <Jar>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\5\jl\arch-lifecycle-common.jar</Jar>
     <Jar>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\6\jl\bin\classes.jar</Jar>
@@ -37,12 +37,14 @@
     <ResolvedResourceDirectory>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\19\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\20\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\22\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\31\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\24\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\32\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\33\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\34\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\\Debug\MonoAndroid81\lp\17\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\\Debug\MonoAndroid81\lp\24\jl\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
@@ -55,8 +57,9 @@
     <ResolvedResourceDirectoryStamp>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\19.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\20.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\22.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\31.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\24.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\32.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\33.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\sebastian.henao\Desktop\AppOferta\AppOferta\AppOferta.Android\obj\Debug\MonoAndroid81\lp\34.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
